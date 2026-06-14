@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kakao-mcp-gateway": {
+      "type": "sse",
+      "url": "https://playmcp.kakao.com/sse",
+      "headers": {
+        "Authorization": "Bearer 72ec556a4df141be866655c6c1ff520f3995cd3c10a569ab28a4d1c082eff701"
+      }
+    }
+  }
+}
